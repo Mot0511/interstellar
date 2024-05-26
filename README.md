@@ -3,4 +3,4 @@
 ## Используемые технологии
 - HTML/CSS
 
-*Ссылка на сайт - https://mot0511.github.io/interstellar/*
+**Ссылка на сайт - https://mot0511.github.io/interstellar/**
